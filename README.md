@@ -1,2 +1,2 @@
 # Data230-Project
-Data Visualization Project on Global Temperature Rise Analysis
+Project on Global Temperature Rise Analysis for Data230 Data Visualization.
